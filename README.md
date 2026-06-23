@@ -10,11 +10,22 @@
 
 A GitHub Pages (Jekyll) template for personal academic website. Click [here](https://luost.me/academic-homepage/) to see the demo.
 
-## Acknowledgement
+## Attribution
 
-This website is based on the [`academic-homepage`](https://github.com/luost26/academic-homepage) template by [Shitong Luo](https://luost.me/).
+This repository is a customized demo built on [`academic-homepage`](https://github.com/luost26/academic-homepage) by [Shitong Luo](https://luost.me/), filled with a cat-themed placeholder persona (Professor Mittens Whiskerpaws).
 
-If you use this repository as a template for your own homepage, please acknowledge both [Yiqian Wu](https://onethousandwu.com) and [Shitong Luo](https://luost.me/) in your README and/or site footer.
+This project is MIT-licensed. When redistributing this repository or substantial portions of it, please retain the `LICENSE` file and the original copyright notice, as required by the MIT License.
+
+If you fork or use this template, please keep the footer attribution crediting [Shitong Luo](https://luost.me/) visible on your site. You can update `footer_text` in `_data/display.yml` to add your own name while keeping the original author credited.
+
+Example footer text:
+
+```yaml
+footer_text: >-
+  Based on <a href="https://github.com/luost26/academic-homepage">academic-homepage</a>
+  by <a href="https://luost.me/">Shitong Luo</a>, customized by
+  <a href="YOUR_URL">Your Name</a>.
+```
 
 ## User Community
 
