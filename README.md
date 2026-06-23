@@ -12,11 +12,11 @@ A GitHub Pages (Jekyll) template for personal academic website. Click [here](htt
 
 ## Attribution
 
-This repository is a customized demo built on [`academic-homepage`](https://github.com/luost26/academic-homepage) by [Shitong Luo](https://luost.me/), filled with a cat-themed placeholder persona (Professor Mittens Whiskerpaws).
+This repository is a customized version of [`academic-homepage`](https://github.com/luost26/academic-homepage) by [Shitong Luo](https://luost.me/), with modifications by [Yiqian Wu](https://onethousandwu.com).
 
 This project is MIT-licensed. When redistributing this repository or substantial portions of it, please retain the `LICENSE` file and the original copyright notice, as required by the MIT License.
 
-If you fork or use this template, please keep the footer attribution crediting [Shitong Luo](https://luost.me/) visible on your site. You can update `footer_text` in `_data/display.yml` to add your own name while keeping the original author credited.
+If you fork or use this customized version, please keep the footer attribution crediting both [Yiqian Wu](https://onethousandwu.com) and [Shitong Luo](https://luost.me/) visible on your site. You can update `footer_text` in `_data/display.yml` to add your own name while keeping both original authors credited.
 
 Example footer text:
 
@@ -24,7 +24,9 @@ Example footer text:
 footer_text: >-
   Based on <a href="https://github.com/luost26/academic-homepage">academic-homepage</a>
   by <a href="https://luost.me/">Shitong Luo</a>, customized by
-  <a href="YOUR_URL">Your Name</a>.
+  <a href="https://onethousandwu.com">Yiqian Wu</a>.
+  Further customized by <a href="YOUR_URL">Your Name</a>.
+
 ```
 
 ## User Community
